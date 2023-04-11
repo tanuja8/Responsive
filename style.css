@@ -45,3 +45,21 @@
     font-size: 70px;
     margin-bottom: 15px;
 }
+#testomonial{
+    background: url('https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430879.jpg?q=10&h=200') no-repeat;
+    background-size: cover;
+    color: white;
+}
+#testomonial img{
+    width: 150px;
+    /* border-radius: 100%; */
+    border-radius: 50%;
+}
+.clientimage img{
+width: 100%;
+margin-bottom: 10px;
+}
+.post-date:before{
+    content: "\f073";
+    font-family: FontAwesome;
+}
